@@ -1,0 +1,4 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+
+$MESS['NEWS_LIST_FOOTER_SOCIAL_BLOCK_HEADING'] = 'Будем на связи';
+$MESS['NEWS_LIST_FOOTER_SOCIAL_ICON_ALT'] = 'Логотип #NAME#';

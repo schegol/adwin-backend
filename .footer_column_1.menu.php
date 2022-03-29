@@ -1,0 +1,54 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+<?
+$aMenuLinks = Array(
+    Array(
+        "Закуски",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Супы",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Горячее",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Паста",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Ризотто",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Десерты",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Напитки",
+        "#",
+        Array(),
+        Array(),
+        ""
+    ),
+);
+?>

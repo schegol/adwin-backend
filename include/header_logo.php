@@ -1,0 +1,1 @@
+<img class="logo__img logo__img--header" src="/local/templates/adwin/img/logo-header.svg" alt="Логотип сайта" width="256" height="67">
